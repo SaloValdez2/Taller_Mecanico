@@ -1,0 +1,17 @@
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\WinTaller.vbprojResolveAssemblyReference.cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\FrmConsulta1.FrmConsulta01.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\FrmConsulta1.Resources.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\WinTaller.vbproj.GenerateResource.Cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\bin\Debug\FrmConsulta1.exe.config
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\bin\Debug\FrmConsulta1.exe
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\bin\Debug\FrmConsulta1.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\bin\Debug\FrmConsulta1.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\bin\Debug\ABDTaller.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\bin\Debug\ABDTaller.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\bin\Debug\ABDTaller.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\FrmConsulta1.exe
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\FrmConsulta1.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\FrmConsulta1.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\FrmConsulta1.FrmMDI.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\FrmConsulta1.FrmConsulta02.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\FrmConsulta1\obj\Debug\FrmConsulta1.FrmConsulta03.resources
