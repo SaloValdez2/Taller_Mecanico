@@ -1,0 +1,8 @@
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\ABDTaller\bin\Debug\ABDTaller.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\ABDTaller\bin\Debug\ABDTaller.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\ABDTaller\bin\Debug\ABDTaller.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\ABDTaller\obj\Debug\ABDTaller.Resources.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\ABDTaller\obj\Debug\ABDTaller.vbproj.GenerateResource.Cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\ABDTaller\obj\Debug\ABDTaller.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\ABDTaller\obj\Debug\ABDTaller.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\Taller_Mecanico\ABDTaller\obj\Debug\ABDTaller.pdb
